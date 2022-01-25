@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Meng Li"
-  avatar           : "images/profile.png"
+  avatar           : images/profile.png
   bio              : "Associate Professor - Bauer Fellow"
   location         : "University of Houston"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=2RJSbyMAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
