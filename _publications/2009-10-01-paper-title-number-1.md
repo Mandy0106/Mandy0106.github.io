@@ -1,9 +1,8 @@
-Baixun Li, Meng Li, Chao Liang
 ---
 title: "Cry-wolf syndrome in recommendation" 
 collection: publications
 permalink: /publication/SSRN-id3481358.pdf
-excerpt: "Production and Operations Management, forthcoming."
+excerpt: "Baixun Li, Meng Li, Chao Liang. Production and Operations Management, forthcoming."
 date: 2009-10-01
 venue: 'Journal 1'
 ---
