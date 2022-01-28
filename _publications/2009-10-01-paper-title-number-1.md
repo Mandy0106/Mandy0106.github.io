@@ -1,5 +1,5 @@
-Baixun Li, Meng Li, Chao Liang.
 ---
+author: "Baixun Li, Meng Li, Chao Liang."
 title: "Cry-wolf syndrome in recommendation" 
 collection: publications
 permalink: /files/SSRN-id3481358.pdf
