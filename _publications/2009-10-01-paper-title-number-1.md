@@ -1,4 +1,4 @@
-### Baixun Li, Meng Li, Chao Liang.
+Baixun Li, Meng Li, Chao Liang.
 ---
 title: "Cry-wolf syndrome in recommendation" 
 collection: publications
