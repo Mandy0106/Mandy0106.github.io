@@ -1,5 +1,5 @@
 ---
-title: "Managing inventory with cash register information: Sales recorded but not demands" 
+title: "13. Managing inventory with cash register information: Sales recorded but not demands" 
 collection: publications
 permalink: /publication/paper13
 excerpt: "Alain Bensoussan, Metin Çakanyildirim, Meng Li, Suresh P. Sethi"
