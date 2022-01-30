@@ -1,5 +1,5 @@
 ---
-title: "12. Overconfident competing newsvendors" 
+title: "Overconfident competing newsvendors" 
 collection: publications
 permalink: /publication/paper-12
 excerpt: "Meng Li, Nicholas Petruzzi, Jun Zhang"
